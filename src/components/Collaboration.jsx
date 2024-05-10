@@ -116,11 +116,11 @@ const Collaboration = () => {
                   </a>
                 </div>
 
-                <div className="flex flex-col gap-3 w-full">
+                <div className="flex flex-col gap-1 w-full">
                   <h1 className="text-[1.5rem]">My Skills</h1>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-700">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "95%" }}
                     >
                       HTML
@@ -128,7 +128,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "95%" }}
                     >
                       CSS
@@ -136,7 +136,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "95%" }}
                     >
                       Tailwind CSS
@@ -144,7 +144,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "85%" }}
                     >
                       JavaScript
@@ -152,7 +152,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "90%" }}
                     >
                       React JS
@@ -160,23 +160,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
-                      style={{ width: "60%" }}
-                    >
-                      Next.js
-                    </div>
-                  </div>
-                  <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
-                    <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
-                      style={{ width: "75%" }}
-                    >
-                      Node JS
-                    </div>
-                  </div>
-                  <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
-                    <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "90%" }}
                     >
                       Redux
@@ -184,7 +168,32 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
+                      style={{ width: "60%" }}
+                    >
+                      Next.js
+                    </div>
+                  </div>
+                  <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
+                    <div
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
+                      style={{ width: "75%" }}
+                    >
+                      Node JS
+                    </div>
+                  </div>
+
+                  <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
+                    <div
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
+                      style={{ width: "70%" }}
+                    >
+                      Linux
+                    </div>
+                  </div>
+                  <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
+                    <div
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "90%" }}
                     >
                       MySQL
@@ -192,7 +201,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "90%" }}
                     >
                       Git
@@ -200,7 +209,7 @@ const Collaboration = () => {
                   </div>
                   <div className="w-[100%] p-2 bg-neutral-200 dark:bg-neutral-600">
                     <div
-                      className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-white bg-gray-700"
+                      className="bg-primary p-0.5 text-right text-xs font-medium leading-none text-white bg-gray-700"
                       style={{ width: "70%" }}
                     >
                       Java
